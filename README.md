@@ -1,3 +1,5 @@
+<img width="923" height="588" alt="image" src="https://github.com/user-attachments/assets/68901ebb-3057-4dcf-974c-e8de6a1b8187" />
+<img width="923" height="588" alt="Screenshot from 2026-10-06 12-33-28" src="https://github.com/user-attachments/assets/fdefd216-578a-423d-a460-64e47b0b3a1b" />
 # Terraform NGINX Infrastructure
 
 A small Infrastructure as Code (IaC) project using **Terraform** and the **Docker provider** to create two NGINX containers.
